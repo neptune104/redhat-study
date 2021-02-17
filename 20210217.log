@@ -502,5 +502,3 @@
   502  oc delete pvc/postgresql-storage
   503  cd
   504  lab install-storage finish
-  505  history
-  506  history > 20210217.log
